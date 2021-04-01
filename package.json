@@ -1,9 +1,9 @@
 {
-  "name": "intro-storybook-vue-template",
-  "version": "0.1.0",
+  "name": "intro-storybook-episource-salesforce-vue-template",
+  "version": "0.0.1",
   "private": true,
   "description": "Starter template to get up and running quickly with Vue and Storybook",
-  "author": "Chromatic <https://chromatic.com/>",
+  "author": "Briar Zimmerman briar.zimmerman@episource.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/chromaui/intro-storybook-vue-template"
